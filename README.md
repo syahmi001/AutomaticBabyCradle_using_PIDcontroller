@@ -6,7 +6,6 @@
  
  ![Optional Text](../master/figures/SS1.png)
  
- 
  The closed-loop transfer function for the whole system is derived as below:
  
  ![Optional Text](../master/figures/SS2.png)
