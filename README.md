@@ -3,7 +3,9 @@
  
  The automatic baby craddle is modelled after a simple mass-damper-spring system as per the picture below:
  
+ 
  ![Optional Text](../master/figures/SS1.png)
+ 
  
  The closed-loop transfer function for the whole system is derived as below:
  
